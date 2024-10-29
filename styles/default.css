@@ -1,0 +1,13 @@
+#bannerdiv {
+        width:468px;
+        height:60px;
+       right: 3em;
+        margin: 0px;
+        padding-top: 5px;
+        padding-left: 25%;
+}
+
+#bannerWidget {
+       padding-top: 5px;
+        text-align: center;
+}
